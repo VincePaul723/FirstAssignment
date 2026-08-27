@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Cars</title>
+</head>
+<body style="background-color: rgb(172, 172, 172); font-family: fantasy;">
+    <nav style="background-color: rgb(106, 104, 104); position: sticky; overflow: hidden;"><a style="padding: 16px 16px;" href="Testpage.html">Main Page</a> <a style="padding: 16px 16px;" href="HellDivers">Why Is Helldivers a Good Game</a><a style="padding: 16px 16px;"  href="My Favorite Cars">My Favorite Cars</a></nav>
+    <h1 style="text-align:center;">My Favorite Cars</u></h1>
+    <h2 style="font-family: Tahoma, Geneva;">BMW I8<h2>
+    <p style="color: rgb(17, 122, 186); font-size:medium;">Despite the hate the vehicle may get, it' by far my Top 1 pick for a affordable super car.
+        MOst people aren't fans of the rear end of the card but I love it.
+    </p>
+    <h2 style="font-family: Tahoma, Geneva;">BMW E30</h2>
+    <p style="color: rgb(103, 105, 23); font-size:medium;">This car is on the older side but it's still such a beautiful car. I fell in love with it even more 
+        when I saw the music artsit Tyler The Creator's E30 in a nice cream exterior and interior.
+    </p>
+
+     <h2 style="font-family: Tahoma, Geneva;">Peel P50</h2>
+    <p style="color: rgb(132, 62, 58); font-size:medium;">I only want this "car" beacuse of it's size and power potential. You can thank the racing franchsie "Forza Horizon" for this.</p>
+    
+
+    <h2>List Form</h2>
+    <ol>
+        <li>BMW I8</li>
+        <li>BMW E30</li>
+        <li>Peel P50</il>
+    </ol>
+
+    <h3>More Details</h3>
+    <table>
+        <tr>
+            <th>Make</th>
+            <th>Model</th>
+            <th>Engine</th>
+        </tr>
+        <tr>
+            <td>BMW</td>
+            <td>i8</td>
+            <td>B38K15T0 1.5L turbocharged I3 engine gasoline</td>
+        </tr>
+
+        <tr>
+            <td>BMW</td>
+            <td>E30</td>
+            <td>B38K15T0 1.5L turbocharged I3 engine gasoline</td>
+        </tr>
+    
+    <img src=".\images\Helldivers_art.jpg">
+</body>
+</html>
