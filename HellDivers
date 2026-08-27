@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Why Is Helldivers a Good Game</title>
+    <title>Why Is Helldivers a Good Game!</title>
 </head>
 <body style="background-color: rgb(92, 176, 92);">
-    <nav style="background-color: rgb(106, 104, 104); position: sticky; overflow: hidden;"><a style="padding: 16px 16px;" href="Testpage.html">Main Page</a> <a style="padding: 16px 16px;" href="HellDivers">Why Is Helldivers a Good Game</a><a style="padding: 16px 16px;"  href="My Favorite Cars">My Favorite Cars</a></nav>
+    <nav style="background-color: rgb(106, 104, 104); position: sticky; overflow: hidden;"><a style="padding: 16px 16px;" href="MainPage.html">Main Page</a> <a style="padding: 16px 16px;" href="HellDivers">Why Is Helldivers a Good Game</a><a style="padding: 16px 16px;"  href="My Favorite Cars">My Favorite Cars</a></nav>
     <h1 style="text-align:center; border:  darkblue dashed;"><u>Why Is Helldivers a Good Game</u></h1>
     <h2 style="font-family: Tahoma, Geneva;">What Is Helldivers<h2>
     <p style="color: rgb(96, 6, 90); font-size:medium;">Helldivers is a 2015 top-down shooter video game developed by Arrowhead Game Studios 
@@ -21,6 +21,6 @@
         <li>Stength In Numbers Trope</li>
     </ul>
     
-    <img src=".\images\Helldivers_art.jpg">
+    <img src="./images/Helldivers2.png">
 </body>
 </html>
