@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why Is Helldivers a Good Game</title>
+</head>
+<body style="background-color: rgb(92, 176, 92);">
+    <h1 style="text-align:center; border:  darkblue dashed;"><u>Why Is Helldivers a Good Game</u></h1>
+    <h2 style="font-family: Tahoma, Geneva;">What Is Helldivers<h2>
+    <p style="color: rgb(96, 6, 90); font-size:medium;">Helldivers is a 2015 top-down shooter video game developed by Arrowhead Game Studios 
+        and published by Sony Computer Entertainment.</p>
+    <p style="color: rgb(111, 16, 11); font-size:medium;">In Helldivers, the player needs to coordinate their actions during chaotic combat to complete objectives and avoid friendly 
+        fire casualties. The game pits the players against three different enemy species and tasks them with ensuring the survival of Super Earth. - <a href="https://en.wikipedia.org/wiki/Helldivers">Wiki</a></p>
+
+    <h2>What Makes Helldivers So Good?</h2>
+    <ul>
+        <li>Highly Interative</li>
+        <li>Strategy Intensive</li>
+        <li>Stength In Numbers Trope</li>
+    </ul>
+    
+    <img src=".\images\Helldivers_art.jpg">
+</body>
+</html>
