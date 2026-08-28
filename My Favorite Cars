@@ -6,9 +6,10 @@
     <title>My Favorite Cars!</title>
 </head>
 <body style="background-color: rgb(172, 172, 172); font-family: fantasy;">
+    <!-- This navigation bar links to the other pages with a little bit of styling. -->
     <nav style="background-color: rgb(106, 104, 104); position: sticky; overflow: hidden;"><a style="padding: 16px 16px;" href="MainPage.html">Main Page</a> <a style="padding: 16px 16px;" href="HellDivers">Why Is Helldivers a Good Game</a><a style="padding: 16px 16px;"  href="My Favorite Cars">My Favorite Cars</a></nav>
     <h1 style="text-align:center;">My Favorite Cars</u></h1>
-    <h2 style="font-family: Tahoma, Geneva;">BMW I8<h2>
+    <h2 style="font-family: Tahoma, Geneva;">BMW I8<h2> <!--  Quick note on the font styling, I used an entire family and kinda just narrowed it down to one or two fonts-->>
     <p style="color: rgb(17, 122, 186); font-size:medium;">Despite the hate the vehicle may get, it' by far my Top 1 pick for a affordable super car.
         MOst people aren't fans of the rear end of the card but I love it.
     </p>
@@ -29,6 +30,7 @@
     </ol>
 
     <h3>More Details</h3>
+    <!-- This table gives extra details about each car. -->
     <table style="border: 2px black solid;">
         <tr>
             <th>Make</th>
